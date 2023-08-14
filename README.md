@@ -16,7 +16,7 @@ A classic Snake Game implemented in Python using the Tkinter library. Navigate t
    git clone https://github.com/yourusername/snake-game.git
 2. **Navigate to the directory**
    ```bash
-   cd snake-game
+   cd [directory]
 3. **Run the game**
    ```bash
    python snake_game.py
